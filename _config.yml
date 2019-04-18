@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+# Site settings
+title: Personal Wesite
+email: neilmckibben@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Site created for a technical writing class
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://neilmckibben.github.io/' # the base hostname & protocol for your site
+github_username: neilmckibben
+
+# Build settings
+markdown: kramdown
